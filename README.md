@@ -40,9 +40,9 @@ Features:
      
     
  <p>
-            <img src="https://user-images.githubusercontent.com/51741195/118511604-b3192100-b74f-11eb-8b3a-304ec22e54f5.png" width="400">
+  <img src="https://user-images.githubusercontent.com/51741195/118511604-b3192100-b74f-11eb-8b3a-304ec22e54f5.png" width="350">
 
- <img src="https://user-images.githubusercontent.com/51741195/118512797-bfea4480-b750-11eb-8738-7b4f54175d56.png" width="400">
+ <img src="https://user-images.githubusercontent.com/51741195/118512797-bfea4480-b750-11eb-8738-7b4f54175d56.png" width="350">
 </p>
 
 
