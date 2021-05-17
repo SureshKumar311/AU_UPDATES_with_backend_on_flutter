@@ -1,5 +1,5 @@
 # AU_UPDATES_with_backend_on_flutter
-An android application (Au Upadtes) with firebase as backend and firestore as database 
+An android application (Au Upadtes) with firebase as backend and firestore as database ( Still On Development )
 
 
 which was developed in flutter and android Studio
